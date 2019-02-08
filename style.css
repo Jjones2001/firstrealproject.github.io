@@ -356,6 +356,17 @@ hgroup{
   font-size: 200%;
   color: white;
 }
+#middle_section2{
+  background-image: inherit;
+  background-size: inherit;
+  background-repeat: inherit;
+  -webkit-box-flex: 1;
+  padding: 20px;
+  margin-bottom: 20%
+  text-align :left;
+  font-size: 200%;
+  color: white;
+}
 #second_section{
   background-color: white;
   border: 1px solid blue;
